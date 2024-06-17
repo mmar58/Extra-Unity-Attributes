@@ -1,0 +1,33 @@
+{
+	"name": "com.mmar.attributes",
+	"version": "0.0.1",
+	"displayName": "MMARAttributes",
+	"description": "MMARAttributes is a unity package that adds some extra editor attributes to help you create clean and interactive inspector to enhance your workflow.",
+	"changelogUrl": "",
+	"documentationUrl": "",
+	
+	
+	"keywords": 
+	[
+		"editor",
+        "mmar",
+		"mmar-attributes",
+		"attributes"
+	],
+	
+	"samples": 
+	[
+		{
+			"displayName": "AttributesSamples",
+			"description": "Provides a sample scene with components on empty gameobjects showing how these attributes work",
+			"path": "Samples~"
+		}
+	],
+	
+	"author": 
+	{
+		"name": "mmar",
+		"email": "rahmanapu118@gmail.com",
+		"url": ""
+	}
+}
